@@ -1,4 +1,4 @@
-django>=4.2.1
+django>=2.2
 
 # gRPC
 protobuf==4.23.2
